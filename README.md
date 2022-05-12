@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vijaymoorthy13
+- 👋 Hi, I’m vijay
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to colloborate in a team.
